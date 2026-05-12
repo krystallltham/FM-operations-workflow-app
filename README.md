@@ -24,9 +24,10 @@ A digital maintenance request application was designed to centralise maintenance
 
 ## Tools Used
 - Microsoft Power Apps
-- Microsoft Excel
+- Microsoft 365
 - Canva
-- Workflow Mapping
+- Power BI
+- Sharepoint system 
 
 ## My Contributions
 - Analysed operational workflow issues
