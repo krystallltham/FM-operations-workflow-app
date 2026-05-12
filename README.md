@@ -11,10 +11,10 @@ A digital maintenance request application was designed to centralise maintenance
 
 ## Key Features
 - Defect reporting submission
-- Workflow tracking
-- Maintenance status updates
-- Dashboard monitoring
-- User-friendly interface
+- Maintenance request tracking
+- User-friendly dashboard
+- Workflow status updates
+- technican coordination
 
 ## Documentation
 - Final Project Report
@@ -30,7 +30,7 @@ A digital maintenance request application was designed to centralise maintenance
 
 ## My Contributions
 - Analysed operational workflow issues
-- Designed workflow processes
+- Designed workflow process and oversee application
 - Contributed to system planning and presentation
 - Documented business requirements
 
