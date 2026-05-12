@@ -32,11 +32,19 @@ A digital maintenance request application was designed to centralise maintenance
 ## My Contributions
 - Analysed operational workflow issues
 - Designed workflow process and oversee application
-- Contributed to system planning and presentation
+- System planning, coding and co-presentator
 - Documented business requirements
 
+## Impact 
+- Improved visibility of maintenance requests 
+- Reduced manual coordination effort
+- Streamlined communication between users and operations team
+
 ## Key Learning Outcomes
-This project strengthened my understanding of digital transformation, workflow optimisation, and operational process improvement within facilities management operations.
+This project strengthened my understanding of:
+- digital transformation
+- workflow optimisation and mapping
+- operational process improvement within facilities management operations.
 
 ## Future Improvements 
 - AI Chatbot (analysis)
