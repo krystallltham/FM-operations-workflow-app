@@ -37,3 +37,10 @@ A digital maintenance request application was designed to centralise maintenance
 
 ## Key Learning Outcomes
 This project strengthened my understanding of digital transformation, workflow optimisation, and operational process improvement within facilities management operations.
+
+## Future Improvements 
+- AI Chatbot (analysis)
+- Safety checklist
+- Dial call function
+- language features
+- offline service 
