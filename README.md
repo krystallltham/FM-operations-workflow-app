@@ -1,7 +1,7 @@
 # Digital Maintenance Request System
 
 ## Project Overview
-This project was developed to streamline the defects reporting and maintenance request process through a digital workflow solution.
+Digital workflow solution designed to streamline maintenance request reporting and improve operational efficiency.
 
 ## Business Problem
 Traditional maintenance reporting processes were inefficient due to fragmented communication, delayed updates, and manual tracking methods.
