@@ -9,12 +9,17 @@ Traditional maintenance reporting processes were inefficient due to fragmented c
 ## Proposed Solution
 A digital maintenance request application was designed to centralise maintenance reporting, improve workflow visibility, and enhance operational coordination.
 
+## Workflow diagram 
+
+
 ## Key Features
 - Defect reporting submission
 - Maintenance request tracking
 - User-friendly dashboard
 - Workflow status updates
 - technican coordination
+
+## UI Screens 
 
 ## Documentation
 - Final Project Report
