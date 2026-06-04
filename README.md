@@ -1,6 +1,4 @@
 # Digital Maintenance Request System
-![Project Overview](digital-maintenance-request-system/screenshots/system-overview/app-overview.png)
-
 <p align="center">
   <img src="digital-maintenance-request-system/screenshots/system-overview/app-overview.png" width="800">
 </p>
@@ -26,12 +24,19 @@ A digital maintenance request application was designed to centralise maintenance
 
 ## UI Screens 
 ### Dashboard 
-![Project Impact](digital-maintenance-request-system/screenshots/features/phase-1/dashboard.png)
+<p align="center">
+  <img src="digital-maintenance-request-system/screenshots/features/phase-1/dashboard.png" width="650">
+</p>
 
 ### Request Submission form 
-![Project Impact](digital-maintenance-request-system/screenshots/features/phase-1/defect-reporting-form.png)
+<p align="center">
+  <img src="digital-maintenance-request-system/screenshots/features/phase-1/defect-reporting-form.png" width="650">
+</p>
+
 ### Request Tracking 
-![Project Impact](digital-maintenance-request-system/screenshots/workflow-process/Sharepoint-tracking.png)
+<p align="center">
+  <img src="digital-maintenance-request-system/screenshots/workflow-process/Sharepoint-tracking.png" width="650">
+</p>
 
 ## Documentation
 - Final Project Report
