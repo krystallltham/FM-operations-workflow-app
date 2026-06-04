@@ -26,6 +26,7 @@ A digital maintenance request application was designed to centralise maintenance
 ### Request Submission form 
 ![Project Impact](digital-maintenance-request-system/screenshots/features/phase-1/defect-reporting-form.png)
 ### Request Tracking 
+![Project Impact](digital-maintenance-request-system/screenshots/workflow-process/Sharepoint-tracking.png)
 
 ## Documentation
 - Final Project Report
