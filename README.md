@@ -20,6 +20,12 @@ A digital maintenance request application was designed to centralise maintenance
 - technican coordination
 
 ## UI Screens 
+# Dashboard 
+![Project Impact](digital-maintenance-request-system/screenshots/features/phase-1/dashboard.png)
+
+# Request Submission form 
+
+# Request Tracking 
 
 ## Documentation
 - Final Project Report
