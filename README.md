@@ -61,7 +61,9 @@ A digital maintenance request application was designed to centralise maintenance
 - Improved visibility of maintenance requests 
 - Reduced manual coordination effort
 - Streamlined communication between users and operations team
-![Project Impact](digital-maintenance-request-system/screenshots/impact-benefits/project-impact.png)
+<p align="center">
+  <img src="digital-maintenance-request-system/screenshots/impact-benefits/project-impact.png" width="650">
+</p>
 
 ## Key Learning Outcomes
 This project strengthened my understanding of:
