@@ -1,5 +1,10 @@
 # Digital Maintenance Request System
 ![Project Overview](digital-maintenance-request-system/screenshots/system-overview/app-overview.png)
+
+<p align="center">
+  <img src="digital-maintenance-request-system/screenshots/system-overview/app-overview.png" width="800">
+</p>
+
 ## Project Overview
 Digital workflow solution designed to streamline maintenance request reporting and improve operational efficiency.
 
