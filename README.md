@@ -7,10 +7,10 @@
 Digital workflow solution designed to streamline maintenance request reporting and improve operational efficiency.
 
 ## Business Problem
-Property and facilities team relied on manual reporting methods, resulting in delay issue resolution, poor visibility, and inefficient communication between stakeholders. To Adress these challenges, a digital maintenance r4equest system was developed using Microsoft Power Apps to centralise defect reporting and streamline maintenance workflows.
+Property and facilities teams relied on manual reporting methods, resulting in delayed issue resolution, limited visibility into maintenance requests, and inefficient communication between stakeholders. To address these challenges, a digital maintenance request system was developed using Miscrosoft Power Apps to centralise defect reporting and streamline maintenance workflows. 
 
 ## Business Value 
-Why does this matters? The solution demonstrates how digital transformation can improve operational efficiency within facilities management by reducing manual processes and increasing visibility across maintenance workflows. 
+The solution demonstrates how digital transformation can improve operational efficiency within facilities management by reducing manual processes and increasing visibility across maintenance workflows. 
 
 ## Proposed Solution
 A digital maintenance request application was designed to centralise maintenance reporting, improve workflow visibility, and enhance operational coordination.
@@ -21,6 +21,7 @@ This project was inspired by common facilities management challenges such as def
 The concepts developed in this project align closely with real-world facilities operations and property management workflows, specifically in collaboration with Property Facility Services Private Limited (PFS).
 
 ## Solution Architecture 
+```text
 User
   │
   ▼
@@ -34,6 +35,7 @@ Power BI Dashboard
   │
   ▼
 Operations Team
+```
 
 ### Architecture Explanation
 The application was built using Microsoft Power Apps as the front-end interface, with SharePoint serving as the central data repository for maintenance requests and status updates. Power BI was utilised to provide visibility into maintenance performance and request tracking.
@@ -61,6 +63,13 @@ The application was built using Microsoft Power Apps as the front-end interface,
   <img src="digital-maintenance-request-system/screenshots/workflow-process/Sharepoint-tracking.png" width="650">
 </p>
 
+## Tools & Technologies
+- Microsoft Power Apps
+- Microsoft 365
+- SharePoint
+- Power BI
+- Canva
+
 ## Documentation
 - [Final Project Report](digital-maintenance-request-system/reports/final-report.pdf)
 - [Company User Guidelines](digital-maintenance-request-system/user-guidelines/company_user-guidelines.pdf)
@@ -74,7 +83,7 @@ The application was built using Microsoft Power Apps as the front-end interface,
 - Collaborated with team members on system planning, testing, and final presentation delivery
 - Produced user documentation and business requirement specifications
 
-## Expected Benefits  
+## Project Impact  
 - Improved visibility of maintenance requests 
 - Reduced manual coordination effort
 - Reduced manual reporting efforts
@@ -82,6 +91,11 @@ The application was built using Microsoft Power Apps as the front-end interface,
 <p align="center">
   <img src="digital-maintenance-request-system/screenshots/impact-benefits/project-impact.png" width="650">
 </p>
+
+## Challenges Encountered 
+- Balancing user simplicity with operational requirements
+- Designing an efficient workflow for multiple stakeholders
+- Ensuring data visibility while maintaining usability
 
 ## Key Learning Outcomes
 This project strengthened my understanding of:
