@@ -65,7 +65,7 @@ The application was built using Microsoft Power Apps as the front-end interface,
 - [Final Project Report](digital-maintenance-request-system/reports/final-report.pdf)
 - [Company User Guidelines](digital-maintenance-request-system/user-guidelines/company_user-guidelines.pdf)
 - [School User Guidelines](digital-maintenance-request-system/user-guidelines/school_user-guidelines.pdf)
-- [Presentation Deck](digital-maintenance-request-system/presentation/final-presentation.pdf)
+- [Presentation Deck](digital-maintenance-request-system/presentation/FSIP.pdf)
 
 ## My Contributions
 - Conducted workflow analysis to identify inefficiencies in the existing defect reporting process
